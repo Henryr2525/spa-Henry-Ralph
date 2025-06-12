@@ -1,0 +1,7 @@
+<title> para el titulo de la pagina
+<head>  para la cebeza de la pagina 
+<br>  para saltar una linea
+<form> para crea un formulario
+<Label> para pedir un información al usuariuo
+<input> para que el usuario ingrese su informacion
+<main> para ejecucar los comandos
